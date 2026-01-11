@@ -1,0 +1,10 @@
+*.pkl
+*.zip
+__pycache__/
+.DS_Store
+*.pyc
+venv/
+.venv/
+env/
+.idea/
+.vscode/
